@@ -1,0 +1,52 @@
+{
+  "ProfileTitle": "Профиль",
+  "message_enterName": "Введите имя",
+  "Update": "Обновить",
+  "Name": "Имя",
+  "Menu_Bill": "Счет",
+  "Menu_History": "История",
+  "Menu_Planning": "Планирование",
+  "Menu_Record": "Новая запись",
+  "Menu_Categories": "Категории",
+  "Detail_Title": "Запись",
+  "Login": "Вход",
+  "Register": "Регистрация",
+  "Quit": "Выйти",
+
+  "Tooltip_ViewRecord": "Посмотреть запись",
+  "CreateNewRecord": "Создать новую запись",
+
+  "Categories": "Категории",
+  "Categories_notYet": "Категорий пока нет",
+  "Title": "Название",
+  "EnterTitleCategory": "Введите название категории",
+  "Limit": "Лимит",
+  
+  "Edit": "Редактировать",
+  
+  "BillTitle": "Счет",
+  "Currency_account": "Счет в валюте",
+  "Exchange_Rates": "Курс валют",
+  "Currency": "Валюта",
+  "Quotation": "Курс",
+
+  "History_Title": "История записей",
+  "Sum": "Сумма",
+  "Date": "Дата",
+  "Category": "Категория",
+  "Type": "Тип",
+  "Open": "Открыть",
+
+  "PlanningTitle": "Планирование",
+
+  "NewRecordTitle": "Новая запись",
+  "AddCategory": "Добавить категорию",
+  "SelectCategory": "Выбрать категорию",
+  "InCome": "Доход",
+  "OutCome": "Расход",
+  "MinValue": "Минимальное значение",
+  "description": "Описание",
+  "Enter_description": "Введите описание",
+  "Create": "Создать"
+
+}

@@ -1,0 +1,51 @@
+{
+  "ProfileTitle": "Profile",
+  "message_enterName": "Enter name",
+  "Update": "Update",
+  "Name": "Name",
+  "Menu_Bill": "Bill",
+  "Menu_History": "History",
+  "Menu_Planning": "Planning",
+  "Menu_Record": "New Record",
+  "Menu_Categories": "Categories",
+  "Detail_Title": "Detail",
+  "Login": "Login",
+  "Register": "Register",
+  "Quit": "Quit",
+
+  "Tooltip_ViewRecord": "View record",
+  "CreateNewRecord": "Create new record",
+
+  "Categories": "Categories",
+  "Categories_notYet": "Categories not yet",
+  "Title": "Title",
+  "EnterTitleCategory": "Enter Title Category",
+  "Limit": "Limit",
+
+  "Edit": "Edit",
+
+  "BillTitle": "Bill",
+  "Currency_account": "Currency_account",
+  "Exchange_Rates": "Exchange_Rates",
+  "Currency": "Currencyют",
+  "Quotation": "Quotation",
+
+  "History_Title": "History record",
+  "Sum": "Sum",
+  "Date": "Date",
+  "Category": "Category",
+  "Type": "Type",
+  "Open": "Open",
+
+  "PlanningTitle": "Planning",
+
+  "NewRecordTitle": "New Record",
+  "AddCategory": "Add Category",
+  "SelectCategory": "Select Category",
+  "InCome": "InCome",
+  "OutCome": "OutCome",
+  "MinValue": "Minimal value",
+  "description": "Description",
+  "Enter_description": "Enter description",
+  "Create": "Create"
+}
